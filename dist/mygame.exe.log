@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "mygame.py", line 194, in <module>
+  File "mygame.py", line 90, in main
+NameError: global name 'exit' is not defined
